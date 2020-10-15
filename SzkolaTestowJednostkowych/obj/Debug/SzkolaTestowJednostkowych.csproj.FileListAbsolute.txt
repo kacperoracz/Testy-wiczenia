@@ -1,0 +1,16 @@
+C:\Users\Kacper\Desktop\GitHub\TestyJednostkowe\SzkolaTestowJednostkowych\bin\Debug\SzkolaTestowJednostkowych.dll.config
+C:\Users\Kacper\Desktop\GitHub\TestyJednostkowe\SzkolaTestowJednostkowych\bin\Debug\SzkolaTestowJednostkowych.dll
+C:\Users\Kacper\Desktop\GitHub\TestyJednostkowe\SzkolaTestowJednostkowych\bin\Debug\SzkolaTestowJednostkowych.pdb
+C:\Users\Kacper\Desktop\GitHub\TestyJednostkowe\SzkolaTestowJednostkowych\bin\Debug\EntityFramework.dll
+C:\Users\Kacper\Desktop\GitHub\TestyJednostkowe\SzkolaTestowJednostkowych\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kacper\Desktop\GitHub\TestyJednostkowe\SzkolaTestowJednostkowych\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kacper\Desktop\GitHub\TestyJednostkowe\SzkolaTestowJednostkowych\bin\Debug\NLog.dll
+C:\Users\Kacper\Desktop\GitHub\TestyJednostkowe\SzkolaTestowJednostkowych\bin\Debug\EntityFramework.xml
+C:\Users\Kacper\Desktop\GitHub\TestyJednostkowe\SzkolaTestowJednostkowych\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kacper\Desktop\GitHub\TestyJednostkowe\SzkolaTestowJednostkowych\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kacper\Desktop\GitHub\TestyJednostkowe\SzkolaTestowJednostkowych\bin\Debug\NLog.xml
+C:\Users\Kacper\Desktop\GitHub\TestyJednostkowe\SzkolaTestowJednostkowych\obj\Debug\SzkolaTestowJednostkowych.csprojAssemblyReference.cache
+C:\Users\Kacper\Desktop\GitHub\TestyJednostkowe\SzkolaTestowJednostkowych\obj\Debug\SzkolaTestowJednostkowych.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\GitHub\TestyJednostkowe\SzkolaTestowJednostkowych\obj\Debug\SzkolaTestowJednostkowych.csproj.CopyComplete
+C:\Users\Kacper\Desktop\GitHub\TestyJednostkowe\SzkolaTestowJednostkowych\obj\Debug\SzkolaTestowJednostkowych.dll
+C:\Users\Kacper\Desktop\GitHub\TestyJednostkowe\SzkolaTestowJednostkowych\obj\Debug\SzkolaTestowJednostkowych.pdb
