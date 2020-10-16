@@ -54,6 +54,7 @@
   <ItemGroup>
     <Compile Include="Basics\CalculatorTests.cs" />
     <Compile Include="Basics\FizzBuzzTests.cs" />
+    <Compile Include="Basics\MathTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
