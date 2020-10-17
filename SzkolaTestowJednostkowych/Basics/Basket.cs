@@ -4,9 +4,9 @@ namespace SzkolaTestowJednostkowych.Basics
 {
     public class Basket
     {
-        public decimal TotalPrice { get; set; }
+        public decimal TotalPrice { get; set; } = 0;
 
-        public List<Product> Products { get; }
+        public List<Product> Products { get; } = new List<Product>();
 
         public void AddProduct(Product product)
         {
