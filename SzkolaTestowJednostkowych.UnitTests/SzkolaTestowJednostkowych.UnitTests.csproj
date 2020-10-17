@@ -57,6 +57,7 @@
     <Compile Include="Basics\FizzBuzzTests.cs" />
     <Compile Include="Basics\MathTests.cs" />
     <Compile Include="Basics\MyQueueTests.cs" />
+    <Compile Include="Basics\MyStackTests.cs" />
     <Compile Include="Basics\TicTacToeTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
