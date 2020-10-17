@@ -5,7 +5,7 @@ namespace SzkolaTestowJednostkowych.Basics
 {
     public class Invoice
     {
-        public IList<InvoicePosition> Positions { get; set; }
+        public IList<InvoicePosition> Positions { get; set; } = new List<InvoicePosition>();
 
         public void AddPosition(InvoicePosition position)
         {
